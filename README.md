@@ -20,8 +20,11 @@ git clone git@github.com:dumpsayamrat/dev.git ~/.dev
 ```
 
 4. Install plugin
-
 open vim and `:PlugInstall` to install plugins
 
+Add your custom config in ~/.dev/vim/my_configs.vim
+
 You're Done!
-----------------------------------------------------------------
+
+
+-----
