@@ -119,7 +119,7 @@ command! -bang -nargs=* Rg
 nnoremap <C-a> :bnext<CR>
 nnoremap <C-s> :bprev<CR>
 
-let g:rainbow_active = 1
+" let g:rainbow_active = 1
 let g:rainbow_load_separately = [
     \ [ '*' , [['(', ')'], ['\[', '\]'], ['{', '}']] ],
     \ [ '*.tex' , [['(', ')'], ['\[', '\]']] ],

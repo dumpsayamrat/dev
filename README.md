@@ -1,6 +1,22 @@
 # dev
 Development configuration files of mine
 
+## ZSH
+1. Install [ohmyzsh](https://ohmyz.sh)
+```sh
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
+2. Install vimrc
+```sh
+~/.dev/zsh/install.sh
+
+source ~/.zshrc
+```
+
+Add your custom config in this path: `$ZSH_CUSTOM`
+
+------
 ## Vim
 
 1. Install [vim-plug](https://github.com/junegunn/vim-plug)
