@@ -13,5 +13,17 @@
 |`C-b` `,`                     | Rename a current window                       |
 |`C-b` `x`                     | Close a current pane                          |
 |`C-b` `M-<arrow>`             | Resize pane                                   |
+|`C-b` `[`                     | Enable scroll mode                            |
 
+#### Custom tmux
+| Command                      | Description                                   |
+|------------------------------|-----------------------------------------------|
+|`C-b` `r`                     | Source tmux config file                       |
+|`C-b` `|`                     | Split pane vertically                         |
+|`C-b` `-`                     | Split pane horizontally                       |
+
+### Vim
+|Command                       | Description                                   |
+|------------------------------|-----------------------------------------------|
+|`C-r`                         | Format rust code                              |
 
